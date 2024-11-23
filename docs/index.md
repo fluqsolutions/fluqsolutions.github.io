@@ -25,5 +25,5 @@ Mande um email para **freitas@fluq.solutions**
 
 ---
 
-© 2025 Fluq Solutions - **fluxos automáticos para sua empresa!**
+© 2025 Fluq Solutions - **fluxos automáticos para sua empresa.**
 
