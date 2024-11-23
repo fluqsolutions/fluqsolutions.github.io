@@ -19,9 +19,7 @@ Oferecemos soluções inteligentes e robustas para automatizar fluxos da sua emp
 
 ## 🌐 Entre em contato
 Precisa de ajuda para automatizar sua empresa?  
-Fale com a gente:
-
-📧 **freitas@fluq.solutions**
+Mande um email para **freitas@fluq.solutions**
 
 [**Solicitar uma consultoria gratuita de 1 hora**](mailto:freitas@fluq.solutions)
 
