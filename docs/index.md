@@ -17,7 +17,7 @@ Oferecemos soluções inteligentes e robustas para automatizar fluxos da sua emp
 
 ---
 
-## 🌐 Entre em contato
+## Entre em contato
 Precisa de ajuda para automatizar sua empresa?  
 Mande um email para **freitas@fluq.solutions**
 
