@@ -3,26 +3,18 @@ body {
     background-color: #000; /* Fundo preto */
     color: #fff;           /* Texto branco */
     margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;     /* Faz o corpo ocupar toda a altura da tela */
+    padding: 0;
 }
 
 .container {
-    width: 80%;            /* Largura máxima do conteúdo */
+    width: 80%;            /* Largura do conteúdo */
     max-width: 800px;      /* Limita a largura do conteúdo */
-    padding: 2rem;
-    border: 2px solid #00ffcc; /* Borda verde neon */
-    border-radius: 10px;   /* Bordas arredondadas */
-    background-color: #111; /* Fundo um pouco mais claro para contraste */
-    box-shadow: 0 0 10px #00ffcc; /* Brilho leve na borda */
-    text-align: justify;   /* Alinha o texto com margens iguais */
+    margin: 0 auto;        /* Centraliza horizontalmente */
+    padding: 1rem 0;       /* Espaço vertical apenas dentro do container */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #00ffcc; /* Verde neon */
-    text-align: center;
+    color: #fff; /* Texto branco */
 }
 
 a {
